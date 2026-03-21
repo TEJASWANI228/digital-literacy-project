@@ -62,7 +62,7 @@ UPI safety and reporting channels.
 ---
 
 ## Google Form - Digital Literacy Quiz
-[Click here to take the quiz](PASTE YOUR FORM LINK HERE)
+[https://docs.google.com/forms/d/e/1FAIpQLScmFvQ0KUWs_jX9Zmc-3dPczLwOwwFRTaOXwUjLm5e0gqkHNA/viewform]
 
 ---
 
