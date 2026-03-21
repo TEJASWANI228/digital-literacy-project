@@ -1,0 +1,34 @@
+CYBERCRIME CASE STUDY - UPI PAYMENT FRAUD
+
+What is UPI Fraud?
+UPI fraud is a type of cybercrime where attackers trick 
+users into sending money or revealing sensitive information 
+through the Unified Payments Interface (UPI) system.
+
+How it typically happens (step-by-step):
+1. The victim receives a call from someone claiming to be 
+   a bank official or customer support representative.
+2. The attacker tells the victim their account has an issue 
+   and needs immediate verification.
+3. The attacker sends a "collect request" on UPI which 
+   looks like a "receive money" notification.
+4. The victim enters their UPI PIN thinking they are 
+   receiving money - but they are actually approving 
+   a payment.
+5. Money is instantly deducted from the victim's account.
+6. The attacker disconnects and becomes unreachable.
+
+Who is usually targeted?
+- First-time UPI users
+- College students and elderly people
+- People who have recently listed items for sale online
+- Anyone unfamiliar with how UPI collect requests work
+
+Consequences:
+- Immediate financial loss with little chance of recovery
+- Personal data exposure leading to further attacks
+- Mental stress and loss of trust in digital payments
+- In severe cases, victims lose their entire savings
+
+Source: Based on common UPI fraud patterns reported on 
+cybercrime.gov.in and CERT-In advisories.
