@@ -68,7 +68,7 @@ UPI safety and reporting channels.
 
 ## Profiles
 - GitHub: https://github.com/TEJASWANI228
-- LinkedIn: https://linkedin.com/in/tejaswani-yadav
+- LinkedIn: https://www.linkedin.com/in/tejaswani-yadav-921694380/
 
 ---
 
